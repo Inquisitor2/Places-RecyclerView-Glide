@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         natureList.add(Nature("https://media.cntraveler.com/photos/57fea9ec8584f8cd20e65f15/master/pass/Aerial-One&OnlyReethiRah-Maldives-CRHotel.jpg"))
         natureList.add(Nature("https://wallpaperaccess.com/full/149869.jpg"))
         natureList.add(Nature("https://i.pinimg.com/originals/18/e9/8c/18e98c0d3d6c3460685ffd8eb8dc9cca.jpg"))
-        natureList.add(Nature("https://wallpapercave.com/wp/dy9Ctpk.jpg")
+        natureList.add(Nature("https://wallpapercave.com/wp/dy9Ctpk.jpg"))
 
 
 
